@@ -40,3 +40,8 @@ iframe#tela{
     width: 264px;
     height: 446px;
 }
+
+section#redes-sociais img{
+    width: 50px;
+    height: 50px;
+}
